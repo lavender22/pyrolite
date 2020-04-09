@@ -46,6 +46,7 @@ make use of your geochemical data to build and test geological models.
    examples/index
    tutorials/index
    api/API
+   data/data
    ext/extensions
    dev/development
    dev/changelog
